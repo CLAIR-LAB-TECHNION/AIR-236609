@@ -1,0 +1,5 @@
+# hidden files
+.*
+
+# bytecode
+*.pyc

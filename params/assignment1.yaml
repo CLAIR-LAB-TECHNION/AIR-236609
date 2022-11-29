@@ -1,0 +1,7 @@
+/assignment1:
+  ros__parameters:
+    duration: 1.0
+    shape: custom
+    speed: 0.21
+    turning_rate: 0.15
+    use_sim_time: false
